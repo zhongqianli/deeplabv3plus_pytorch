@@ -27,3 +27,5 @@ deeplabv3+包含三部分backbone、ASPP以及Decoder三部分。backbone获取�
 
 ## 致谢
 [pytorch-deeplab-xception](https://github.com/jfzhang95/pytorch-deeplab-xception)
+
+[IrisParseNet](https://github.com/xiamenwcy/IrisParseNet)
