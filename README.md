@@ -16,6 +16,9 @@ deeplabv3+包含三部分backbone、ASPP以及Decoder三部分。backbone获取�
 #### 测试结果
 ![result1](images/iris_result/result.jpg)
 
+#### 相关数据集
+[IrisParseNet](https://github.com/xiamenwcy/IrisParseNet)
+
 ### 水果图像分割
 
 #### 训练过程
@@ -31,4 +34,4 @@ deeplabv3+包含三部分backbone、ASPP以及Decoder三部分。backbone获取�
 ## 致谢
 [pytorch-deeplab-xception](https://github.com/jfzhang95/pytorch-deeplab-xception)
 
-[IrisParseNet](https://github.com/xiamenwcy/IrisParseNet)
+感谢王博士提供的虹膜图像分割数据[IrisParseNet](https://github.com/xiamenwcy/IrisParseNet)
