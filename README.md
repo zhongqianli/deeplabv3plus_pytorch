@@ -25,6 +25,9 @@ deeplabv3+包含三部分backbone、ASPP以及Decoder三部分。backbone获取�
 ![result1](images/fruit_result/result1.png)
 ![result2](images/fruit_result/result2.png)
 
+#### 相关数据集
+[Fruit-Images-Dataset](https://github.com/Horea94/Fruit-Images-Dataset)
+
 ## 致谢
 [pytorch-deeplab-xception](https://github.com/jfzhang95/pytorch-deeplab-xception)
 
